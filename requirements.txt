@@ -1,7 +1,7 @@
 streamlit
 openai
-plotly
 pandas
+plotly
 python-pptx
 whisper
 torch
