@@ -1,0 +1,8 @@
+streamlit
+openai
+plotly
+pandas
+python-pptx
+whisper
+torch
+torchaudio
